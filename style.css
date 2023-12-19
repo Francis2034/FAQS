@@ -152,10 +152,6 @@
   border-top: 1px solid rgba(204, 204, 204, 0.25);
 }
 
-.attribution {
-  background-color: hsl(275, 100%, 97%);
-}
-
 @media (max-width: 900px) {
   #main-container {
     display: flex;
@@ -249,9 +245,5 @@
     z-index: 2;
     position: relative;
     height: 90%;
-  }
-  .attribution {
-    font-size: 9px;
-    margin-top: 50px;
   }
 }/*# sourceMappingURL=style.css.map */

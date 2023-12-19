@@ -132,10 +132,6 @@
 .line-separator {
     border-top: 1px solid $color-line;
 }
-.attribution {
-    background-color: $color-light-pink;
-}
-
 @media (max-width: 900px) {
     #main-container {
         display: flex;
@@ -233,8 +229,4 @@
         position: relative; 
         height: 90%;
 }
-    .attribution {
-        font-size: 9px;
-        margin-top: 50px;
-    }
     }
