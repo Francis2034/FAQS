@@ -156,6 +156,7 @@
     }
     .blank {
         height: 400px;
+        color: $color-light-pink;
     }
 }
 @media (max-width: 751px) { 
@@ -236,5 +237,8 @@
     .attribution {
         font-size: 9px;
         margin-top: 20px;
+    }
+    .blank {
+        color: $color-light-pink;
     }
     }
